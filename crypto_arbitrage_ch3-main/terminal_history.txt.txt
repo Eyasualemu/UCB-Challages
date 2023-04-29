@@ -1,0 +1,59 @@
+commit 96f3a11efa2395855df7f2b6d294144f608788b6
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sun Apr 9 21:32:40 2023 -0400
+
+    Update Readme file
+
+commit 84c13d732bd11b1fce76fdcbeee790afccab9cfa
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Apr 9 21:29:29 2023 -0400
+
+    Intial report added
+
+commit bb04690dfec2264b51709f166fdd79a24f7f5eb2
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sun Apr 9 21:12:26 2023 -0400
+
+    Update README.md
+
+commit b5811d480d36b6d7d094971884c7f22ec6fcc8d8
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sun Apr 9 21:10:31 2023 -0400
+
+    Update README.md
+
+commit 46c0c5625f704efd0a614c2208702900bee40e45
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Apr 9 20:55:30 2023 -0400
+
+    Read.me file updated with screenshot
+
+commit 4bc7e8ea611ed7b0c443a6bd46525fd78febb856
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Apr 9 16:41:42 2023 -0400
+
+    Add review comment about the dection
+
+commit 53dce96f923d8aaf5c34284890a104422ea3971a
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Apr 9 16:40:17 2023 -0400
+
+    Calculate the arbitrage profit
+
+commit b8ab35c2413da90904854491a82914d4f425201c
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Apr 9 16:19:28 2023 -0400
+
+    prepare the data
+
+commit 3caec2db741aa7bade03e1b74ef244fbf87ba998
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Apr 9 16:06:42 2023 -0400
+
+    bitstamp and coinbase data collected
+
+commit 59ac572e47bd029090a43cf5bedf6f6507b066ba
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sun Apr 9 15:23:18 2023 -0400
+
+    Initial commit

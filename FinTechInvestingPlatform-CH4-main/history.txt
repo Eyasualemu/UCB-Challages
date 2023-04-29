@@ -1,0 +1,13 @@
+    1  cd Desktop/ClassSoln/FinTechInvestingPlatform-CH4/
+    2  git status 
+    3  git add .
+    4  git commit -m"Recommendations and Answers for quetions"
+    5  git push
+    6  git status
+    7  git add .
+    8  git commit -m"Read me file added"
+    9  git push 
+   10  git pull
+   11  terminal_history.txt
+   12  git terminal_history.txt
+   13  history > history.txt

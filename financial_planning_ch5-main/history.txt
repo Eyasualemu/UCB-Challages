@@ -1,0 +1,20 @@
+    1  git init
+    2  git clone https://github.com/Eyasualemu/financial_planning_ch5.git
+    3  git status
+    4  cd  financial_planning_ch5
+    5  git status
+    6  git add .
+    7  git commit -m"intial code push"
+    8  git status
+    9  git add .
+   10  git commit -m "Retirment portofolio calculation"
+   11  git push
+   12  git status
+   13  git status
+   14  git add .
+   15  git commit -m"Read me file updated to describe the solution"
+   16  git push
+   17  git pull
+   18  terminal_history.txt
+   19  git terminal_history.txt
+   20  history > history.txt

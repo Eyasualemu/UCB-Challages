@@ -1,0 +1,14 @@
+    1  cd Desktop/ClassSoln/Loan_Qualifier-/
+    2  git status 
+    3  git add .
+    4  git commit -m "save_qualifying_loans function update to save the CSV file"
+    5  git push 
+    6  git status
+    7  git add .
+    8  git commit -m " The folloing updated included 1. prompt message 2. readme file 3. work flow diagram"
+    9  git push 
+   10  git status 
+   11  git add .
+   12  git commit -m "Print message color update"
+   13  git push
+   14  history 50 > terminal_history.txt

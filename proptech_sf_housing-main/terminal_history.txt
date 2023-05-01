@@ -1,0 +1,8 @@
+    1  history -w ~/history.txt
+    2  cd 
+    3  cd Desktop/ClassSoln/UCB-Challages/
+    4  history -w ~/history.txt
+    5  history ~/history.txt
+    6  history | grep git >  ~/history.txt
+    7  cd proptech_sf_housing-main/
+    8  history 50 > terminal_history.txt
